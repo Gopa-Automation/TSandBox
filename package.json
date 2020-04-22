@@ -1,0 +1,13 @@
+{
+  "name": "flux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node cars"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.2"
+  }
+}
